@@ -104,7 +104,7 @@ export default function Example() {
 
       <div className="relative isolate overflow-hidden pt-14">
         <img
-          src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2830&q=80&blend=111827&sat=-100&exp=15&blend-mode=multiply"
+          src="/img/robot operator.png"
           alt=""
           className="absolute inset-0 -z-10 h-full w-full object-cover"
         />
@@ -136,7 +136,11 @@ export default function Example() {
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
               We handle everything for you and provide you with the best service
-              available in the industry today!
+              available in the industry today! Our staff is highly trained and
+              knowledgable and will make sure your call goes off without any
+              worries! We also use the latest in technology to ensure that you
+              get the best results possible! You get the best of both worlds!
+              Amazing human operators and the latest in available technology!
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
